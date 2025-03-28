@@ -1,0 +1,83 @@
+[00:00] Patient: Go.
+[00:09] Doctor: Hi, Jill.
+[00:11] Patient: Hi.
+[00:13] Doctor: So, let's see.
+[00:23] Patient: So I have something for you.
+[00:25] Doctor: I'm sorry. I'm Maya. I'm going to be your physician today.
+[00:30] Patient: Okay.
+[00:31] Doctor: So let's see. I have some unfortunate news for you. So I see that you came in for your six month follow up surveillance PET scan.
+[00:45] Patient: Yeah. Yeah.
+[00:47] Doctor: So sadly, it showed widely metastatic cancer, which means.
+[00:56] Patient: Wait a minute. What? What? What? Wildly. What?
+[01:00] Doctor: Metastatic means that the cancer has spread to parts of your body. Based on the genetic testing of the tumor received or removed six months ago, we know that there are no targeted therapies available.
+[01:19] Patient: What are you talking about? What are you saying?
+[01:23] Doctor: What this is.
+[01:25] Patient: Whoa, whoa, whoa, whoa, whoa, whoa, whoa. I'm. Hi. Let's. Can we just start all over, please? Because this is just.
+[01:33] Doctor: So. My name's Maya.
+[01:36] Patient: Okay?
+[01:37] Doctor: I'm your physician. I'm just.
+[01:39] Patient: This is. My name is Jill. Okay. My name is Jill Cooper. All right.
+[01:44] Doctor: And so did you go through a six month like imaging?
+[01:50] Patient: Yeah, I did. After they. I had the surgery. Yeah. So.
+[01:56] Doctor: So it shows that the cancer was not removed from your body.
+[02:02] Patient: And the cancer was removed from my body. It.
+[02:06] Doctor: There was a partial amount of cancer removed from your body, but not all of it. So there was some left behind and then it spread to other parts of your body. So surgeries like this are not 100%.
+[02:26] Patient: Oh, well, gee, that's great. Thank you so much. This is like.
+[02:30] Doctor: I'm sorry, Jill.
+[02:32] Patient: I'm sorry. I'm really sorry too.
+[02:35] Doctor: I know.
+[02:36] Patient: No, you don't know. You have no idea. You don't know.
+[02:43] Doctor: So your prognosis without treatment in the month range is very likely less than six months. No.
+[03:02] Patient: You don't know everything. Doctors don't know everything. Six months.
+[03:06] Doctor: You're right. It could be. It could be more, it could be less. It's just depending on, you know, the cancers, like how it affects your body because it affects everybody differently. With treatment, it could perhaps be extended to a year. Okay.
+[03:37] Patient: Do you have any idea what you're saying means to me? Do you have any idea what you're saying means to me? I mean, just. I'm just curious, like.
+[03:47] Doctor: So. Jill, I have never been in your shoes. I'm going to be honest with you. I've never received a medical diagnosis like this. I know. It's devastating.
+[04:01] Patient: Devastating is.
+[04:11] Doctor: What are your questions for me at this moment?
+[04:18] Patient: This. I just need. This needs to be. I mean, you need. They need to do something. They need to. I need to live. Okay, so you need to do something so that I can live. All right. That's like, I just need to live.
+[04:32] Doctor: We can definitely get second and third opinions. And we can. We can do more tests. We can do. We can bring in more research.
+[04:38] Patient: Do something. You've got to do tests. Don't do anything. You need to do something. Test.
+[04:47] Doctor: Can you show us a more definitive.
+[04:50] Patient: You just said like something about months, and now you're going to do more tests. It takes like three to four weeks to get a test even scheduled these days. So I'm going to wait for a test. No, we need to do something.
+
+====[ 5 minute mark ]===
+
+[05:07] Doctor: Okay. So there are chemotherapy options to begin. And like I said, the prognosis is within the six month to eight month range. But with therapy, it could be extended to a year or it could even be past that. It just depends on how your body reacts and how the cancer reacts in your body.
+[05:35] Patient: So you're. I mean, before you were just like, boom, it's done. Now, it's like now. So what is it? Like, what, what.
+[05:44] Doctor: What's it. What's your question exactly?
+[05:47] Patient: My question. You. First you was like, there's nothing, and now you're saying there are treatments. So what is it? What did. What are you saying? I don't.
+[05:53] Doctor: There's no targeted thera available, so we.
+[05:56] Patient: Can'T know what that means. What therapies, what is what.
+[06:02] Doctor: There's nothing that we can do to specifically get like, aim for the specific cancer in your body. So we can't. There's not like a. Like a laser beam that we can point at the cancer in your body just to get rid of it. There is chemotherapy which suppresses your immune system to hopefully try to get the cancer out of your body. Jill, do you have any support systems that you'd like to be included in this conversation?
+[06:56] Patient: My sister is watching my kids and my husband died two years ago. So no, I'm sorry.
+[07:02] Doctor: Jill, would you like to have this conversation at a later time so we can.
+[07:19] Patient: You're telling me one minute I have months and then you're gonna, what, stop this? I just don't understand. I just.
+[07:38] Doctor: It is very. It's very difficult to digest this information. So your prognosis right now, I would say is six months to a year. It depends on how, if you decide to go the chemotherapy route. It just depends on how the cancer reacts to that treatment. But if you decide not to get treatment, then it would be. You would have less time, essentially.
+[08:15] Patient: I'm sorry, what? I just. I just. You're just. It's. I want to live. Do you get that I need to live.
+[08:28] Doctor: And we will do everything that we can. We will. There's always new studies coming out. There are always new treatments coming out, you know, so we will do all of our research.
+[08:41] Patient: Is that going to work for me? New treatments? Just do whatever you got to do.
+[08:46] Doctor: We will have to do our research with them because we don't want to put you in more. We don't want to put you in more danger with. If your body decides to react badly to a new treatment.
+[08:59] Patient: So.
+[08:59] Doctor: So we want to.
+[09:01] Patient: You're giving me six months to live.
+[09:04] Doctor: What, six months to a year? Yes.
+[09:09] Patient: No, you said six months before. You said. You said year. Didn't you say something like a year? With treatment, yes.
+[09:17] Doctor: So without treatment, it would be six months. And with treatment, it could be extended to a year.
+[09:27] Patient: By the time you figure out what treatment, I'm dead, basically, is what you're saying.
+[09:32] Doctor: Well, we can start you with chemotherapy and then see how that affects your body and the cancer.
+[09:47] Patient: This is just like. This is not the way it was supposed to go today. This is just not the way it was supposed to. To go. I had the surgery. I had the surgery so that they took it all out. That's what they said. They said there was a. You know, I had. I had my kidney removed. It was. It's gone. So that they could.
+[10:08] Doctor: So the surgeries are not always 100%. Nothing is 100% in medicine, and it's. That's hard to hear, I know, but they did everything they could with the surgery. But unfortunately, the imaging has shown a different result.
+[10:30] Patient: Are you sure they even looked at the right person? The right person at this point? They said everything looked good after the surgery. Okay.
+[10:39] Doctor: And then that was after the surgery. Right. So six months after cancer had time.
+[10:47] Patient: No, I. I want. I want to. Okay. I just. I want you live. All right, so just sign me up. Okay? Just.
+[11:00] Doctor: I'll talk to the treatment team about everything. Do you feel that you would want to go the chemotherapy route?
+[11:11] Patient: Is it going to help me?
+[11:13] Doctor: It could.
+[11:16] Patient: Well, then I guess, yeah, probably, I would think.
+[11:24] Doctor: Okay. I'll let the team know. Do you have any other questions for me?
+[11:32] Patient: No.
+[11:33] Doctor: Or would you like to talk about anything else?
+[11:36] Patient: No. No.
+[11:40] Doctor: I'm so sorry, Joe.
+[11:43] Patient: Yeah, so am I. So am. I'm gonna go. I have to. I have to pick up my kids. Okay. Thank you.
+[12:08] Doctor: Of course.

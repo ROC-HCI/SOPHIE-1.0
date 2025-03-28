@@ -1,0 +1,31 @@
+Patient: Go.
+Doctor: Hi, Mrs. Bell, it's Paige. How are you doing today?
+Patient: I'm here.
+Doctor: I just wanted to discuss the results of your imaging.
+Patient: Right. Yep. That's why I'm here.
+Doctor: The overall. The imaging showed that the cancer has progressed in your limbs. You also have bilateral pleural fusions, more bony metastases, and dense silver infiltrations.
+Patient: What. What's that?
+Doctor: No, it's a lot of overwhelming information.
+Patient: I don't understand what that means. Yes, what you said.
+Doctor: Yeah. So I'll try my best to explain these things for you. I did reach out to an oncology friend of mine as well. So the imaging showed that the cancer has spread to your lungs. It has also showed that there is some fluid in your lungs and that the cancer has also spread to the bones as well and has also started to end. Enter your liver. Okay, so today I just kind of wanted to chat about the next steps in speaking with my oncology colleague. They said that the prognosis. This prognosis kind of indicates weeks to months without treatment potentially.
+Patient: Whoa, whoa, whoa, whoa. Wait. What?
+Doctor: I know.
+Patient: Two months.
+Doctor: I know this is not. Do you have anyone that you would like to, like, be here with you for this visit? I know it's a lot of information to handle at one time.
+Patient: No, it's fine. It's just me. I just. I, I. You, You're. I've got a lot of. A lot of information coming at me, and you just said without treatment, I have weeks to months. Like I could die in two weeks is what you're saying.
+Doctor: It's hard to say an exact prognosis. Sometimes it can be a little. Our estimations can be a little off.
+Patient: Okay. This is why I avoid the doctors. Estimation can be a little off. You literally just told me I could probably die in, in weeks. That. Hold on, hold on.
+Doctor: No, this is a lot of information at once, and I can give you a few minutes to process, but we are here for you. But there is treatment options that we can discuss. In your genesis, your genetic testing did show that results could be favorable. If that is something you'd like to discuss today, well, then, sure.
+Patient: I mean, if there. There are treatment options and there. I don't know what favorable means, but I mean, sure, let's do, I guess do it. I don't know.
+Doctor: So today I would just like to present you with those options, and then we could go from there and talk about the next steps.
+Patient: I really just. I really just need. Hold on. I really need a second. I'm still wrapping my brain around the fact that things are worse and I'm apparently could be dying. Estimated time is weeks. I could be dying. What? I just.
+Doctor: Can I offer you some tissues right now? Or would you just like some few minutes alone?
+Patient: I just. I just need a second. Hold on. Because here's the thing. I have a lot to live for now than I did most of my life.Doctor: Do you have anyone you would like to call while you were here? Just maybe someone that could be with you during this time?
+Patient: No, I'm. I'm. It's just me. And I'm fine.
+Doctor: Okay. We're here for you. There's anything we can do for you during this time, we would be happy to help. And we're always here if you need us.
+Patient: Thank you. I just. You know, I avoided the doctor when they. When I came in and was diagnosed. And they told me without treatment, I had months to years or something, whatever. I. And I just was like. I got worse, so I should have just feeling. I'm feeling a lot right now.
+Doctor: That's very understandable. We just discussed a lot of heavy topics, information. I just threw a lot at you at one time. And I'm terribly sorry for all of that. How are. How are you doing right now?
+Patient: I'm feeling like I'm regretting not coming in sooner and doing the treatment when I should have. When I told. When I was told to do it. Because I'm not just thinking of myself right now.
+Doctor: So we. Would you like to discuss potential treatment options?
+Patient: I guess. Yes. I guess so.
+Doctor: This is when I would discuss those with you. Like the different treatments and stuff. Sorry, Curtis, I'm not very well versed on the specific treatments.

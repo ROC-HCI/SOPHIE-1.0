@@ -1,0 +1,72 @@
+Patient: Go.
+Doctor: Hi, Jill. How are you doing today?
+Patient: I'm okay. How are you?
+Doctor: I'm good, thank you.
+Patient: Okay.
+Doctor: Do you have any questions about medically. About what you're going through right now?
+Patient: I'm just gonna have to, I guess, do this every six months and. And go through that. You know, the. The little hand wringing every six months now to get my clear. But, yeah, other than that, feeling pretty good.
+Doctor: Okay. So, unfortunately, with the tests that we have been undergoing, it shows that your prognosis is that you have cancer and I have cancer.
+Patient: They. They removed it six months ago with the surgery.
+Doctor: So we went through again. And at this point, your prognosis shows that you still have cancer. And without treatment, it's likely that you only have six months.
+Patient: Whoa. What?
+Doctor: Yeah.
+Patient: No, that's. I'm sorry, You. You. You might have the wrong chart. Just with the zoom and everything, it's not like a typical appointment. So. My cancer was. They told me that it was going to be cured when I did the surgery, and if I removed that right kidney, that it would be gone and that I. These scans, I thought were just to kind of just like make sure, like double check. So it can't be that far gone in just those few months. This is wrong, right?
+Doctor: Unfortunately, it is not. It looks like with out treatment, you likely have less than six months, and with treatment, it could perhaps be extended to a year, depending.
+Patient: Neither one of those are very good. Like. What? Oh, my God. This can't be real. It can't be real. It's not real. It's. Oh, my God. Are you sure? I. You're sure?
+Doctor: Yeah, I'm sure.
+Patient: I can't give up. I'm not going to just give up and not believe that there's. That you're wrong.
+Doctor: Like I said, we can continue with treatment and see how well you tolerate the.
+Patient: I'll tolerate anything. My kids are little. I. I mean, they're not little little, but they're little. They need their mom. Like, they. They've been through so much. They lost their dad like this. I can't. I have to be here. Tell me what to do to be here.
+Doctor: We can continue chemotherapy and see how well you tolerate it.
+Patient: I. I wasn't on. I wasn't on that. I. So you want me to start chemo? Okay.
+Doctor: I would like.
+Patient: And you think that might work? That might.
+Doctor: I'm. I'm not sure. We're just gonna. We can start and see how well you tolerate it.
+Patient: Do you have something good to tell me? My God. Do you. My My kids, I. They're. I'm all they have.
+Doctor: I'm so sorry to tell you this news.
+Patient: They lost their dad out of the blue. He wasn't even sick.
+Doctor: Sorry.
+Patient: My sister has them at the pool right now, and they don't even know that their, like, whole life could be changing again. And if. Okay, so you're saying there's treatment. What does that mean? Like, you said, chemo. But what. I mean, there's so many. Like, what do I do? Tell me what to do to. To prove you wrong. I might be the one case, you know.Doctor: So, unfortunately, it would only. The chemotherapy might only give you more time here. So without treatment, your prognosis is likely. You have six months.
+Patient: Okay, well, I'm not gonna do that. I'm not gonna do no treatment or not even try.
+Doctor: Yeah, right.
+Patient: Unless you're telling me, is there something really wrong with this chemo?
+Doctor: Like, it's just that the chemo would possibly give you a year left.
+Patient: Okay.
+Doctor: Depending how well, I need as much.
+Patient: Time, maybe well tolerated. Like, I. I'm. I'm really healthy and strong before that surgery. Like. Like, you don't know how strong I am. My body is. I. I eat well. I. Anybody's going to tolerate it, it's going to be me.
+Doctor: Okay. Yeah, we can. We can move forward with the treatment if that's what you would like.
+Patient: Okay. But I still don't understand. Like, am I going to have to. Are my kids going to have to, like, watch me throw up? Like, are they. Am I going to have to get an iv or is this pills? Like, I. I don't understand anything about this.
+Doctor: Yeah, so because of the cancer, you have six months left to live.
+Patient: I heard you. Okay, But I'm. I'm gonna have more time if I do the chemo.
+Doctor: You said possibly.
+Patient: Okay, so I want to know more about what I can do in a positive direction to get more time with my kids. I don't know, more of that other stuff. Like. Okay, so tell me what I can do.
+Doctor: We can start treatment.
+Patient: Okay. Okay, but what does that look like? Like.
+Doctor: I'm not sure. It's a.
+Patient: Like, alone here. I. You're not sure?
+Doctor: It's a. It's. Everybody is different. So it depends how well everybody tolerates chemo.
+Patient: No, I mean, the treatment itself. Who's going to tell me what it looks like and what it's going to be and all of that?
+Doctor: I can tell you once I know more.
+Patient: Okay, so do I have to come in or something like that?
+Doctor: Yeah, we can Book another follow up appointment.
+Patient: Okay. I, I, I need more information.
+Doctor: Okay. Can I come back and give you more information? I'm gonna let you sit with this and think it through and then we can schedule another appointment.
+Patient: I really don't even know what to sit with. Like, it's back. What do I tell my sister? Like, I, I'm not going to tell anything to the kids yet. What, what do I even tell my sister? It's back. But I'm, I don't even know what I'm supposed to do now other than I know I'm going to get some kind of chemo. I'm going to fight.
+Doctor: Okay.
+Patient: Is that what I, what do I tell her?
+Doctor: What do I, Yeah, you can tell your sister that it, you do have cancer and it is back.
+Patient: That's it.
+Doctor: Yeah. So at your 6 month follow up with your pet CT scan, it showed that the cancer widely metastasized.
+Patient: Okay, I heard that. Okay, so that's what I'll tell her. Okay. I'm gonna, we need to, we need to just schedule something now. Like I'm, I'm ready to be done. We need to schedule something so I can get more information about the chemo itself. So I can just get that started right away to not let this go a second longer, to keep growing. I'm going to fight it. So let's do that.
+Doctor: Okay? No problem. I'm so sorry that I had to be the one to tell you this.
+Patient: I'm sorry if this was hard for you. It was really hard for me to hear. Okay? I'm okay. I know your job sucks. It's just.
+Doctor: No, no, it's not about me.
+Patient: Okay? I've got to figure out what I'm going to tell Karen and then I'll. What, do I call the office and come back in for the, the chemo visit or, or what? Or somebody going to call me?
+Doctor: Yes, we'll call you to schedule an appointment.
+Patient: Can you come, can you make sure somebody calls me within 24 hours?
+Doctor: Of course.
+Patient: We need to get, I mean, really, because I will start harassing with phone calls and if it's more than that. Okay. Because I want to get moving. I want to fight.
+Doctor: Okay, we can make sure to do that.
+Patient: Okay. All right, thanks. Okay.
+Doctor: Thank you, Jill.
+Patient: All right, thanks. Talk to you soon. 24 hours. Okay, bye.

@@ -1,0 +1,16 @@
+[00:00] Speaker A: Right, Here we are. Okay, so here's the be explicit module.
+[00:08] Speaker B: This is. Hi. So, baby, it's good to see you today. Okay.
+[00:15] Speaker A: Yeah, the. The speech to text recognizer isn't perfect and we don't know what someone with like a really thick accent, if it would even work for him. But.
+[00:31] Speaker B: Right.
+[00:41] Speaker A: And so. All right. And it looks like on the missed opportunities, that's probably an example of where it cut you off early.
+[01:11] Speaker B: Yeah.
+[01:19] Speaker A: That'S not a bad example.
+[01:24] Speaker B: I could say with confidence that your prognosis is terminal. That's good. Yeah. I understand this is a difficult reality to face, but I want to be straightforward with you and provide you with the most accurate information. Right. I like it.
+[01:47] Speaker A: Nice. And then for the full feedback, I'll draw your attention to these metrics. Here we have some additional ones that we compute. Do you know the expression hedging?
+[01:58] Speaker B: No.
+[01:59] Speaker A: Okay. So when someone is hedging, they're kind of beating around the bush. They're not getting right to the point. And there's a certain vocabulary of words that indicate the. That someone is hedging. But you don't have to get a.
+[02:14] Speaker B: Sixth grade reading level.
+[02:16] Speaker A: Sorry, no. Sixth grade, sick grade is good. We just. You can't give it to people simple enough in some sense. Oh, okay.
+[02:25] Speaker B: It's good. It's good.
+[02:28] Speaker A: Good. Like what you don't want is to be like, speaking at like a collegiate level. Yeah, no, sixth grade is good. I would say anything from like, like, I don't know, 4th to 10th is within the range of. It's not too complicated. So. So that's there. And then we have some tips and ex.
+[03:05] Speaker B: The treatment is not working. The cancer is spreading. Okay.

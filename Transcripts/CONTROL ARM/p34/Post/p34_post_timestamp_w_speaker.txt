@@ -1,0 +1,61 @@
+[00:00] Patient: Go.
+[00:04] Doctor: Hi, Ms. Bell. It's good to see you today. How have you been feeling?
+[00:09] Patient: Well, you know, as well as could be expected, I guess.
+[00:14] Doctor: Great. Well, I'm glad that you're here today so we can talk about some important stuff. So tell me, what, what do you remember about what we discussed with you three months ago with Dr. Blum?
+[00:31] Patient: So they said it was a, some kind of lung cancer that was spreading around, and there was a lot of people saying a lot of stuff on those days, and, you know, it's like, y'all, I got better things to do, you know, so. Yeah, I, I, I fully admit I didn't, I wasn't listening all that hard. You know, that's okay.
+[01:02] Doctor: It, it's, it's tough information to take in, and I know that, you know, you know, it probably took some time for you to, you know, digest it all. And I remember that we got some follow up imaging and. Right. So I do have some bad news to share with you today. Is that okay?
+[01:25] Patient: Yeah.
+[01:26] Doctor: Okay. So we did find that that cancer has spread in your lungs. It's also spread into your bones as well as your liver.
+[01:37] Patient: Well, at least my cancer is an overachiever. Right.
+[01:48] Doctor: Joking about this situation, but how, how are you feeling about that? It's not.
+[01:57] Patient: Six months ago, I wouldn't have given a, you know.
+[02:01] Doctor: Yeah. What do you, what do you think now, though?
+[02:12] Patient: I got to see my kid.
+[02:15] Doctor: Yeah. That's really important.
+[02:25] Patient: He's going to have a baby.
+[02:27] Doctor: Oh, Congratulations. So, yeah, I would just.
+[02:39] Patient: Listen, I know I don't. I would just, I would, I would. It would mean a lot to me. I could be there for that.
+[02:49] Doctor: Yeah. Yes. That's, that's really important. And it sounds like you want to, you know, be there for your grandchild and be there for your family, and we'll do everything, you know, possible to make sure that we can have that chance for you. I do have some options that we can discuss if you want to hear those.
+[03:11] Patient: Yeah. Okay.
+[03:14] Doctor: Okay. So without treatment, I have to be clear. Without treatment, you know, our oncologist looked at your information and said that most likely your prognosis would be weeks to months.
+[03:29] Patient: Right.
+[03:30] Doctor: But we, we do have h. Weeks, potentially weeks to months. And I, you know, with, with, with cancer and with how far it's spread, we just can't really predict, you know, what, what that might look like.
+[03:47] Patient: Okay.
+[03:49] Doctor: But we do have some options for treatment if you want to hear those, if you're okay. I know you want to be there for your family, and that's I agree. That's an important thing. And so if we do start treatment and given out, if we do some testing and see how you're doing, we could potentially extend that to a bit longer. It's just that, you know, we can't predict what that would look like.
+[04:21] Patient: Right. So. So my understanding is the baby's due in February.
+[04:33] Doctor: February.
+[04:34] Patient: Mid February. So.
+[04:41] Doctor: Yeah, I want you to be there for your kid. You know, I think that that would. For the grandkid, I think that would be so important. And, you know, I'm going to be here to do everything I can with you, to be with you there every step of the way to make sure that we can, you know, set you up in the best possible situation.
+
+====[ 5 minute mark ]===
+
+[05:01] Patient: Okay.
+[05:02] Doctor: For that. For that future. Yeah.
+[05:04] Patient: So. Okay. So that. Those treatments, you. You were saying, like, is that the kind of thing where. Where I have to stay in the hospital, or can I. Can I be. Can I go home? Like, can I go see him while that's happening?
+[05:27] Doctor: I think we. I'm actually not sure about the types of treatments that they'll provide. We'll have to talk to. I'll have to set you up with a meeting with the oncologist. They'll probably be taking care of your treatments, and, you know, I'll work closely together with them, but I think the oncologist will decide what type of treatments are necessary if you need to stay in the hospital or not.
+[05:56] Patient: I just. I'd really, really like to. To be there, you know?
+[06:02] Doctor: Yeah.
+[06:03] Patient: So.
+[06:05] Doctor: Yeah, so it. I'm glad, you know, it sounds like. It sounds like, to me, you know, you're ready to take this on, you want to treat this, you know, and do what you can. So we're gonna set you up, and I'm gonna be there the entire way, and hopefully, you know, we can get to February and that. That'll be our goal.
+[06:28] Patient: Okay. Yeah. I mean, whatever. Whatever take. You know, whatever it takes. I just. I. I got it. I mean, he does. He deserves to have me be there. I mean, after, you know, I. Good about.
+[06:46] Doctor: I agree. I think, you know, it's important to you and your family that you're there for them, and we want to give you as much time as possible.
+[06:55] Patient: Okay.
+[06:57] Doctor: Well, I'm. I'm glad that, you know, you're here today. I'm glad that you came in. Is there any. Do you have any other questions for me?
+[07:08] Patient: I don't. So this could sound dumb. Please don't. But I don't want to be on one of those machines.
+[07:20] Doctor: Okay.
+[07:21] Patient: So I don't. I don't want. I don't want Andy to see me like that. So.
+[07:28] Doctor: Yeah, we.
+[07:29] Patient: Whatever. I mean, like, whatever takes, but. But not that. So can you. Can you put that on my.
+[07:40] Doctor: Yes. If in the future, you know, you do end up needing some type of machine assisted ventilation or some other type of life supporting device, we can, you know, put that information that you don't want to receive, that type of reception resuscitation.
+[07:58] Patient: Yeah, I just.
+[08:00] Doctor: We can definitely do that.
+[08:02] Patient: Okay.
+[08:05] Doctor: Okay. I know this was a lot of news and it was all.
+[08:09] Patient: Well, you know, compared to some. This is nothing, you know? Okay. This is just karma kicking me in the ass is all this is. I've been expecting this for a while, so. Okay. All right. So is someone gonna call me or do.
+[08:38] Doctor: Yeah, I'll have the. I'll. I'll talk to the oncologist and I'll have. We'll set up a meeting for you to tell them.
+[08:44] Patient: I promise to answer this time because they're probably all pissed at me over there.
+[08:49] Doctor: That's good. Yes. And if you don't hear back, you know, just call back our office and we'll set up a meeting.
+[08:57] Patient: Thank you.
+[08:58] Doctor: Yeah.
+[09:00] Patient: Dr. Tang, seriously, thank you.
+[09:04] Doctor: It's. It's my pleasure. And I really hope that, you know, we can. We can get through this together.
